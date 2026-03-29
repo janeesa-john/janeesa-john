@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hi, I'm Janeesa 👋
 
-<!--
-**janeesa-john/janeesa-john** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full Stack Developer (Django + React)
+💻 Currently building real-world projects and sharpening my development skills
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 My Journey
+
+I’m currently on a focused journey to become a job-ready full stack developer.
+
+After taking a break, I’ve restarted my career with clarity and discipline; building consistently every day and documenting my progress through projects.
+
+---
+
+## 🛠️ Tech Stack
+
+* Python
+* Django
+* Django REST Framework
+* React
+* HTML, CSS, JavaScript
+
+---
+
+## 📌 What I'm Doing Right Now
+
+* Building full stack applications using Django + React
+* Strengthening backend development with APIs
+* Practicing problem solving daily
+* Sharing my progress through GitHub
+
+---
+
+## 🚀 Projects (Coming Up)
+
+* Django CRUD Application
+* REST API with Authentication
+* Full Stack Web Application (Django + React)
+
+---
+
+## 📈 My Goal
+
+To become a skilled full stack developer and contribute to real-world projects in a professional environment.
+
+---
+
+## 📫 Open to Opportunities
+
+I’m actively working towards remote opportunities in full stack development.
+
+---
+
+⭐ Consistency > Perfection
+
