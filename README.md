@@ -32,11 +32,11 @@ After taking a break, I’ve restarted my career with clarity and discipline; bu
 
 ---
 
-## 🚀 Projects (Coming Up)
+## 🚀 Projects 
 
-* Django CRUD Application
-* REST API with Authentication
-* Full Stack Web Application (Django + React)
+* Python Basics Practice (Day 1–5)
+* CLI To-Do Application (in progress)
+* 
 
 ---
 
