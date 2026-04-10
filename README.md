@@ -1,7 +1,7 @@
 # Hi, I'm Janeesa 👋
 
 🚀 Full Stack Developer (Django + React)
-💻 Currently building real-world projects and sharpening my development skills
+💻 Building real-world applications and strengthening backend development skills
 
 ---
 
@@ -9,7 +9,7 @@
 
 I’m currently on a focused journey to become a job-ready full stack developer.
 
-After taking a break, I’ve restarted my career with clarity and discipline; building consistently every day and documenting my progress through projects.
+After taking a break, I restarted my career with clarity and discipline — consistently building projects, improving problem-solving skills, and documenting my progress through GitHub.
 
 ---
 
@@ -25,32 +25,31 @@ After taking a break, I’ve restarted my career with clarity and discipline; bu
 
 ## 📌 What I'm Doing Right Now
 
-* Building full stack applications using Django + React
+* Building CLI-based and full stack applications
 * Strengthening backend development with APIs
 * Practicing problem solving daily
-* Sharing my progress through GitHub
+* Learning file handling and application structure
 
 ---
 
-## 🚀 Projects 
+## 🚀 Projects
 
 * Python Basics Practice (Day 1–5)
 * CLI To-Do Application (in progress)
-* 
+* Number Guessing Game 🎯
 
 ---
 
 ## 📈 My Goal
 
-To become a skilled full stack developer and contribute to real-world projects in a professional environment.
+To become a skilled full stack developer and contribute to real-world applications in a professional environment.
 
 ---
 
 ## 📫 Open to Opportunities
 
-I’m actively working towards remote opportunities in full stack development.
+Actively working towards remote opportunities in full stack development.
 
 ---
 
 ⭐ Consistency > Perfection
-
