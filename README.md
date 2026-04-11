@@ -37,6 +37,7 @@ After taking a break, I restarted my career with clarity and discipline — cons
 * Python Basics Practice (Day 1–5)
 * CLI To-Do Application (in progress)
 * Number Guessing Game 🎯
+* Password Generator 🔐
 
 ---
 
