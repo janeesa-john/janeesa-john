@@ -38,6 +38,7 @@ After taking a break, I restarted my career with clarity and discipline — cons
 * CLI To-Do Application (in progress)
 * Number Guessing Game 🎯
 * Password Generator 🔐
+* Contact Book Application 📒
 
 ---
 
