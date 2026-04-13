@@ -1,7 +1,6 @@
 # Hi, I'm Janeesa 👋
 
-🚀 Full Stack Developer (Django + React)
-💻 Building real-world applications and strengthening backend development skills
+Full Stack Developer (Django + React) | Python Builder | Open to Opportunities
 
 ---
 
