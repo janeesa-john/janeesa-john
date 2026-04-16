@@ -24,10 +24,10 @@ After taking a break, I restarted my career with clarity and discipline — cons
 
 ## 📌 What I'm Doing Right Now
 
-* Building CLI-based and full stack applications
-* Strengthening backend development with APIs
-* Practicing problem solving daily
-* Learning file handling and application structure
+* Building Python mini projects and CLI applications
+* Strengthening backend logic with CRUD-based programs
+* Practicing clean coding using functions
+* Preparing to transition into Django development
 
 ---
 
