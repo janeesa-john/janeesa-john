@@ -1,6 +1,6 @@
 # Hi, I'm Janeesa 👋
 
-Full Stack Developer (Django + React) | Python Builder | Open to Opportunities
+Aspiring Full Stack Developer | Python • Django • React | Building Daily
 
 ---
 
@@ -25,7 +25,7 @@ After taking a break, I restarted my career with clarity and discipline — cons
 ## 📌 What I'm Doing Right Now
 
 * Building Python mini projects and CLI applications
-* Strengthening backend logic with CRUD-based programs
+* Strengthening backend logic with CRUD and file-based programs
 * Practicing clean coding using functions
 * Preparing to transition into Django development
 
@@ -34,7 +34,7 @@ After taking a break, I restarted my career with clarity and discipline — cons
 ## 🚀 Projects
 
 * Python Basics Practice (Day 1–5)
-* CLI To-Do Application 
+* CLI To-Do Application 📝
 * Number Guessing Game 🎯
 * Password Generator 🔐
 * Contact Book Application 📒
