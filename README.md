@@ -42,6 +42,7 @@ After taking a break, I restarted my career with clarity and discipline — cons
 * Expense Tracker💸
 * Food Order System 🍽️
 * Notes Manager 📝
+* Dice Roller 🎲
 
 ---
 
