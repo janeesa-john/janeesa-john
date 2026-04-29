@@ -43,6 +43,7 @@ After taking a break, I restarted my career with clarity and discipline — cons
 * Food Order System 🍽️
 * Notes Manager 📝
 * Dice Roller 🎲
+* Quiz App 🧠
 
 ---
 
