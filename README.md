@@ -44,6 +44,7 @@ After taking a break, I restarted my career with clarity and discipline — cons
 * Notes Manager 📝
 * Dice Roller 🎲
 * Quiz App 🧠
+* Calculator 🧮
 
 ---
 
