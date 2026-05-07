@@ -15,10 +15,6 @@ After taking a break, I restarted my career with clarity and discipline — cons
 ## 🛠️ Tech Stack
 
 * Python
-* Django
-* Django REST Framework
-* React
-* HTML, CSS, JavaScript
 
 ---
 
