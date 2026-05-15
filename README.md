@@ -102,8 +102,8 @@ To become a skilled backend-focused full stack developer capable of building sca
 
 ## 📫 Connect With Me
 
-* LinkedIn: *(Add your LinkedIn profile here)*
-* GitHub: *(Your GitHub profile link)*
+* LinkedIn: *www.linkedin.com/in/janeesajohn*
+* GitHub: *https://github.com/janeesa-john*
 
 ---
 
