@@ -1,59 +1,110 @@
 # Hi, I'm Janeesa 👋
 
-Aspiring Full Stack Developer | Python • Django • React | Building Daily
+### Python Developer | Backend & Full Stack Learning Journey | Exploring GenAI Applications
 
 ---
 
-## 🌱 My Journey
+## 🚀 About Me
 
-I’m currently on a focused journey to become a job-ready full stack developer.
+I’m currently on a focused journey to become a backend-focused full stack developer.
 
-After taking a break, I restarted my career with clarity and discipline — consistently building projects, improving problem-solving skills, and documenting my progress through GitHub.
+After taking a career break, I restarted my learning journey with clarity, consistency, and discipline — building projects daily, strengthening programming fundamentals, and documenting my progress publicly through GitHub.
+
+My current focus is building a strong foundation in Python and backend development while gradually moving toward full stack and AI-powered application development.
 
 ---
 
-## 🛠️ Tech Stack
+## 🌱 Current Focus
+
+* Strengthening Python fundamentals
+* Practicing problem-solving and clean coding
+* Building CLI-based mini projects
+* Learning backend development with Django
+* Understanding APIs and full stack development concepts
+* Exploring the future of GenAI-powered applications
+
+---
+
+## 🛠️ Current Skills
 
 * Python
+* OOP Concepts
+* File Handling
+* Functions & Modular Programming
+* CLI Application Development
+* Basic Problem Solving
 
 ---
 
-## 📌 What I'm Doing Right Now
+## 📖 Currently Learning
 
-* Building Python mini projects and CLI applications
-* Strengthening backend logic with CRUD and file-based programs
-* Practicing clean coding using functions
-* Preparing to transition into Django development
+* Django
+* Django REST Framework
+* ReactJS
+* APIs & Backend Development
+* Git & GitHub
 
 ---
 
-## 🚀 Projects
+## 🤖 Exploring Next
 
-* Python Basics Practice (Day 1–5)
+* OpenAI API
+* FastAPI
+* Prompt Engineering
+* GenAI-Powered Applications
+
+---
+
+## 📚 Projects
+
+### Python Mini Projects
+
 * CLI To-Do Application 📝
-* Number Guessing Game 🎯
 * Password Generator 🔐
+* Number Guessing Game 🎯
 * Contact Book Application 📒
 * Library Management System 📚
-* Expense Tracker💸
+* Expense Tracker 💸
 * Food Order System 🍽️
-* Notes Manager 📝
-* Dice Roller 🎲
-* Quiz App 🧠
+* Notes Manager 🗒️
+* Quiz Application 🧠
 * Calculator 🧮
 
 ---
 
-## 📈 My Goal
+## 🌍 Learning in Public
 
-To become a skilled full stack developer and contribute to real-world applications in a professional environment.
+I believe consistency compounds over time.
+
+This GitHub documents my transition from Python fundamentals toward backend, full stack, and AI-integrated application development through:
+
+* consistent coding,
+* project-based learning,
+* daily progress,
+* and continuous improvement.
 
 ---
 
-## 📫 Open to Opportunities
+## 🎯 Goal
 
-Actively working towards remote opportunities in full stack development.
+To become a skilled backend-focused full stack developer capable of building scalable real-world applications and modern AI-powered products.
 
 ---
 
-⭐ Consistency > Perfection
+## 📈 Current Journey
+
+* Building projects consistently
+* Strengthening backend fundamentals
+* Preparing for Django & full stack development
+* Transitioning toward GenAI application development
+
+---
+
+## 📫 Connect With Me
+
+* LinkedIn: *(Add your LinkedIn profile here)*
+* GitHub: *(Your GitHub profile link)*
+
+---
+
+⭐ *Consistency > Perfection*
