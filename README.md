@@ -1,110 +1,103 @@
 # Hi, I'm Janeesa 👋
 
-### Python Developer | Backend & Full Stack Learning Journey | Exploring GenAI Applications
+### Backend-Focused Full Stack Developer | Python • Django • APIs • GenAI Applications
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-I’m currently on a focused journey to become a backend-focused full stack developer.
+Backend-focused developer transitioning into full stack and AI-powered application development through hands-on learning, project building, and consistent implementation.
 
-After taking a career break, I restarted my learning journey with clarity, consistency, and discipline — building projects daily, strengthening programming fundamentals, and documenting my progress publicly through GitHub.
+With a background in Electronics & Communication Engineering and prior experience in the EdTech industry, I developed a strong interest in building technology-driven systems, interactive learning experiences, and scalable applications.
 
-My current focus is building a strong foundation in Python and backend development while gradually moving toward full stack and AI-powered application development.
-
----
-
-## 🌱 Current Focus
-
-* Strengthening Python fundamentals
-* Practicing problem-solving and clean coding
-* Building CLI-based mini projects
-* Learning backend development with Django
-* Understanding APIs and full stack development concepts
-* Exploring the future of GenAI-powered applications
+Currently focused on strengthening backend engineering fundamentals using Python, Django, Django REST Framework, APIs, databases, and modern web development practices while gradually exploring GenAI-powered applications.
 
 ---
 
-## 🛠️ Current Skills
+# 🌱 Current Focus
+
+* Python Fundamentals
+* Backend Development
+* Django & Django REST Framework
+* APIs & Authentication
+* ReactJS & Full Stack Integration
+* SQL & Database Design
+* GenAI API Integrations
+
+---
+
+# 🛠️ Tech Stack
+
+### Current Skills
 
 * Python
 * OOP Concepts
 * File Handling
 * Functions & Modular Programming
-* CLI Application Development
-* Basic Problem Solving
+* CLI-Based Application Development
+* Git & GitHub
 
----
-
-## 📖 Currently Learning
+### Currently Learning
 
 * Django
 * Django REST Framework
 * ReactJS
-* APIs & Backend Development
-* Git & GitHub
+* Backend APIs
+* Database Design
 
----
-
-## 🤖 Exploring Next
+### Exploring Next
 
 * OpenAI API
 * FastAPI
 * Prompt Engineering
-* GenAI-Powered Applications
+* AI-Powered Applications
 
 ---
 
-## 📚 Projects
+# 📚 Projects
 
-### Python Mini Projects
+### Mini CLI Applications
 
-* CLI To-Do Application 📝
-* Password Generator 🔐
-* Number Guessing Game 🎯
-* Contact Book Application 📒
-* Library Management System 📚
-* Expense Tracker 💸
-* Food Order System 🍽️
-* Notes Manager 🗒️
-* Quiz Application 🧠
-* Calculator 🧮
+* Expense Tracker
+* Notes Manager
+* Library Management System
+* Quiz Application
+* Calculator
+* Contact Book
+* Password Generator
 
----
-
-## 🌍 Learning in Public
-
-I believe consistency compounds over time.
-
-This GitHub documents my transition from Python fundamentals toward backend, full stack, and AI-integrated application development through:
-
-* consistent coding,
-* project-based learning,
-* daily progress,
-* and continuous improvement.
+More backend-oriented and AI-integrated projects coming soon.
 
 ---
 
-## 🎯 Goal
+# 📈 Current Journey
 
-To become a skilled backend-focused full stack developer capable of building scalable real-world applications and modern AI-powered products.
+This GitHub documents my progression from Python foundations toward:
+
+```text id="i3vv6s"
+Python
+→ Backend Development
+→ Django & APIs
+→ Full Stack Applications
+→ AI-Powered Systems
+```
+
+Focused on:
+
+* project-based learning
+* backend engineering progression
+* clean implementation
+* continuous improvement
 
 ---
 
-## 📈 Current Journey
+# 🎯 Goal
 
-* Building projects consistently
-* Strengthening backend fundamentals
-* Preparing for Django & full stack development
-* Transitioning toward GenAI application development
+To become a backend-focused full stack developer capable of building scalable web applications and AI-powered products.
 
 ---
 
-## 📫 Connect With Me
+# 📫 Connect With Me
 
-* LinkedIn: *www.linkedin.com/in/janeesajohn*
-* GitHub: *https://github.com/janeesa-john*
-
----
-
-⭐ *Consistency > Perfection*
+* LinkedIn: [www.linkedin.com/in/janeesajohn](http://www.linkedin.com/in/janeesajohn)
+* GitHub: https://github.com/janeesa-john
